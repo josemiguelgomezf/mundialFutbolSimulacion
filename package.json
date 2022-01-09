@@ -1,0 +1,13 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "Recreacion sistema de mundial de futbol.",
+  "main": "index.js",
+  "type": "module",
+  "outputCapture": "std",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
